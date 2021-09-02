@@ -5,10 +5,9 @@
 
 
 - :heart::strawberry::video_game::computer:🎵🛌✈
-- - 📫 Reach me asap: [Email](mailto:507814637@qq。com)
-- I have been studying golang recently.
-- I'm interested in a lot of technologies.
-- I hope we can grow up together.
+- 📖 I have been studying golang recently.
+- 👉I'm interested in a lot of technologies.
+- ☎️ I hope we can grow up together.
 
 
 
