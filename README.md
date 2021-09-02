@@ -5,6 +5,7 @@
 
 
 - :heart::icecream::strawberry::milk_glass::ping_pong::video_game::computer::musical_note:
+- :study I have been studying golang recently.
 
 
 ![](https://img.shields.io/badge/golang-blue?style=flat&logo=go) 
