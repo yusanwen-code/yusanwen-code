@@ -14,7 +14,7 @@
 
 
 ![](https://img.shields.io/badge/golang-blue?style=flat&logo=go) 
-![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) ![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) ![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) ![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) ![](https://img.shields.io/badge/springboot-orange?style=flat&logo=springboot) 
+![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) ![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) ![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) ![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) ![](https://img.shields.io/badge/springboot-orange?style=flat&logo=springboot) ![](https://img.shields.io/badge/rust-red?style=flat&logo=rust) 
 
 <br/>
 <br/>
