@@ -4,7 +4,7 @@
 ### <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="50">A little more about me...
 
 
-- :heart::icecream::strawberry::video_game::computer:🎵🛌
+- :heart::strawberry::video_game::computer:🎵🛌✈
 - I have been studying golang recently.
 - I'm interested in a lot of technologies.
 - I hope we can grow up together.
