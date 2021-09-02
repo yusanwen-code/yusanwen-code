@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm YuSanWen.</h2>
 
 
-### <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50">A little more about me...
+### <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="50">A little more about me...
 
 
 - 📖 I have been studying golang recently.
