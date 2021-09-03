@@ -5,7 +5,7 @@
 
 
 - 📖 I have been studying golang recently.
-- 👉I'm interested in a lot of technologies.
+- 👉 I'm interested in a lot of technologies.
 - ☎️ I hope we can grow up together.
 
 
