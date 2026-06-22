@@ -18,6 +18,6 @@
 <br/>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/?username=yusanwen-code&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true" alt="GitHub Status">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusanwen-code&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusanwen-code&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusanwen-code&layout=compact&theme=tokyonight" />
 </p>
