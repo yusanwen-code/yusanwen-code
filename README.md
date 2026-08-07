@@ -17,8 +17,3 @@
 <br/>
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/yusanwen-code?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
-  <img src="https://img.shields.io/github/stars/yusanwen-code?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
-  <img src="https://img.shields.io/github/commit-activity/y/yusanwen-code/yusanwen-code?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
-</p>
