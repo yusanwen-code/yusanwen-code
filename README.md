@@ -1,19 +1,42 @@
-<h2 align="center">👋 Hello! I'm YuSanWen.</h2>
+&lt;!-- 顶部波浪横幅 --&gt;
+&lt;img src="./assets/header.svg" width="100%" /&gt;
 
-### <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="50">A little more about me...
+&lt;!-- 打字机动态标题 --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="./assets/typing.svg" alt="Typing SVG" /&gt;
+&lt;/p&gt;
 
-- 👉 I'm interested in a lot of technologies.
-- ☎️ I hope we can grow up together.
+&lt;!-- 徽章栏 --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/🔥_Backend_Engineer-38BDF8?style=for-the-badge&labelColor=1e293b" /&gt;
+  &lt;img src="https://img.shields.io/badge/⚡_6_Years_Exp-10B981?style=for-the-badge&labelColor=1e293b" /&gt;
+  &lt;img src="https://img.shields.io/badge/📍_Beijing-China-EF4444?style=for-the-badge&labelColor=1e293b" /&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=yusanwen-code&color=38BDF8&style=for-the-badge&label=👁️+Views" /&gt;
+&lt;/p&gt;
 
-![](https://img.shields.io/badge/golang-blue?style=flat&logo=go) 
-![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) 
-![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) 
-![](https://img.shields.io/badge/rust-lightgrey?style=flat&logo=rust) 
-![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) 
-![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) 
-![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) 
-![](https://img.shields.io/badge/springboot-orange?style=flat&logo=springboot) 
+&lt;br/&gt;
 
-<br/>
-<br/>
+&lt;!-- 双栏：关于我 + 技能 --&gt;
+&lt;table width="100%"&gt;
+  &lt;tr&gt;
+    &lt;td valign="top" width="50%"&gt;
 
+### 🧑‍💻 `whoami`
+
+```yaml
+name: YuSanWen
+role: Backend Engineer
+location: Beijing, China
+experience: 6+ years
+focus:
+  - Distributed Systems
+  - AI Agent Engineering
+  - Cloud Native & K8s
+current:
+  - Building tools with Go + Wails + SQLite
+  - Learning RAG & LLM Integration
+  - Preparing for Graduate School
+hobbies:
+  - Vibe Coding with Claude/Cursor
+  - Stock Market & Quant Analysis
+  - Philosophy & Sociology
