@@ -1,0 +1,28 @@
+name: Profile Assets
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: actions/checkout@v4
+      - run: mkdir -p assets
+      - name: Fetch assets
+        run: |
+          fetch() { curl -sL --fail --max-time 15 "$1" > "$2.new" && mv "$2.new" "$2" || rm -f "$2.new"; }
+          
+          fetch "https://github-readme-stats.vercel.app/api?username=yusanwen-code&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=7200" assets/stats.svg
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=yusanwen-code&layout=compact&theme=tokyonight&cache_seconds=7200" assets/top-langs.svg
+          fetch "https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+YuSanWen;Backend+Engineer;6+Years+Experience;Go+%7C+Java+%7C+Python;AI+Agent+Explorer" assets/typing.svg
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=yusanwen-code&theme=tokyo-night&hide_border=true&area=true" assets/activity.svg
+          fetch "https://github-readme-streak-stats.herokuapp.com/?user=yusanwen-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=EF4444&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8" assets/streak.svg
+          fetch "https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=200&section=header&text=YuSanWen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20|%20AI%20Explorer&descSize=18&descAlignY=55" assets/header.svg
+          fetch "https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=120&section=footer" assets/footer.svg
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile assets" && git push)
