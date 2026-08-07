@@ -1,23 +1,24 @@
 <h2 align="center">👋 Hello! I'm YuSanWen.</h2>
 
-
 ### <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="50">A little more about me...
-
 
 - 👉 I'm interested in a lot of technologies.
 - ☎️ I hope we can grow up together.
 
-
-
-
-
 ![](https://img.shields.io/badge/golang-blue?style=flat&logo=go) 
-![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) ![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![](https://img.shields.io/badge/rust-lightgrey?style=flat&logo=rust) 
- ![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) ![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) ![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) ![](https://img.shields.io/badge/springboot-orange?style=flat&logo=springboot) 
+![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) 
+![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) 
+![](https://img.shields.io/badge/rust-lightgrey?style=flat&logo=rust) 
+![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) 
+![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) 
+![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) 
+![](https://img.shields.io/badge/springboot-orange?style=flat&logo=springboot) 
+
 <br/>
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusanwen-code&show_icons=true&theme=tokyonight&hide=issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusanwen-code&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/yusanwen-code?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
+  <img src="https://img.shields.io/github/stars/yusanwen-code?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
+  <img src="https://img.shields.io/github/commit-activity/y/yusanwen-code/yusanwen-code?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
 </p>
