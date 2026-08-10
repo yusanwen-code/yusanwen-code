@@ -12,14 +12,19 @@ jobs:
       - name: Fetch assets
         run: |
           fetch() { curl -sL --fail --max-time 15 "$1" > "$2.new" && mv "$2.new" "$2" || rm -f "$2.new"; }
-          
-          fetch "https://github-readme-stats.vercel.app/api?username=yusanwen-code&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=7200" assets/stats.svg
-          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=yusanwen-code&layout=compact&theme=tokyonight&cache_seconds=7200" assets/top-langs.svg
+
+          # Stats cards: public github-readme-stats instances are rate-limited, use summary-cards instead
+          fetch "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusanwen-code&theme=tokyonight" assets/stats.svg
+          fetch "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusanwen-code&theme=tokyonight" assets/top-langs.svg
           fetch "https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+YuSanWen;Backend+Engineer;6+Years+Experience;Go+%7C+Java+%7C+Python;AI+Agent+Explorer" assets/typing.svg
+          fetch "https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%e4%bd%a0%e5%a5%bd+%f0%9f%91%8b%2c+%e6%88%91%e6%98%af+YuSanWen%3b%e5%90%8e%e7%ab%af%e5%b7%a5%e7%a8%8b%e5%b8%88%3b6+%e5%b9%b4%e5%bc%80%e5%8f%91%e7%bb%8f%e9%aa%8c%3bGo+%7c+Java+%7c+Python%3bAI+Agent+%e6%8e%a2%e7%b4%a2%e8%80%85" assets/typing-zh.svg
           fetch "https://github-readme-activity-graph.vercel.app/graph?username=yusanwen-code&theme=tokyo-night&hide_border=true&area=true" assets/activity.svg
-          fetch "https://github-readme-streak-stats.herokuapp.com/?user=yusanwen-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=EF4444&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8" assets/streak.svg
+          fetch "https://streak-stats.demolab.com/?user=yusanwen-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=EF4444&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8" assets/streak.svg
+          # Trophies: official instance is shut down, using a community mirror; local cache keeps the last good copy
+          fetch "https://github-profile-trophy-ahmed.vercel.app/?username=yusanwen-code&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" assets/trophy.svg
           fetch "https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=200&section=header&text=YuSanWen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20|%20AI%20Explorer&descSize=18&descAlignY=55" assets/header.svg
           fetch "https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=120&section=footer" assets/footer.svg
+          fetch "https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:818CF8&height=3" assets/line.svg
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"

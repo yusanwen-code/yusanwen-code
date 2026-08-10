@@ -1,19 +1,84 @@
-<h2 align="center">👋 Hello! I'm YuSanWen.</h2>
+<!-- Assets in ./assets are refreshed daily by .github/workflows/profile.yml -->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="YuSanWen — Backend Engineer | AI Explorer" />
+</p>
 
+<p align="center">
+  <b>English</b> | <a href="./README.zh-CN.md">简体中文</a>
+</p>
 
-### <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="50">A little more about me...
+<p align="center">
+  <img src="./assets/typing.svg" alt="Hi 👋, I'm YuSanWen · Backend Engineer · 6 Years Experience · Go | Java | Python · AI Agent Explorer" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yusanwen-code&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
+  <a href="https://github.com/yusanwen-code?tab=followers">
+    <img src="https://img.shields.io/github/followers/yusanwen-code?label=Followers&style=flat&color=38BDF8" alt="GitHub followers" />
+  </a>
+</p>
 
-- 👉 I'm interested in a lot of technologies.
-- ☎️ I hope we can grow up together.
+## 💫 About Me
 
+- 🧑‍💻 **Backend Engineer** with **6 years** of experience
+- ⚙️ Specialized in **Go**, **Java**, **Python** and **Rust** · **Spring / Spring Boot** · **MySQL**
+- 🤖 **AI Agent Explorer** — tinkering with LLMs and autonomous agents
+- 🌏 Interested in **a lot of technologies**, always learning something new
+- 🌱 I hope we can **grow up together**
 
+<img src="./assets/line.svg" width="100%" alt="" />
 
+## 🧠 Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,python,rust,js,mysql,spring,redis,docker,kubernetes,git,linux,idea,vscode,postman&perline=8&theme=dark" alt="Languages and Tools" />
+</p>
 
-![](https://img.shields.io/badge/golang-blue?style=flat&logo=go) 
-![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) ![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![](https://img.shields.io/badge/rust-lightgrey?style=flat&logo=rust) 
- ![](https://img.shields.io/badge/JavaScript-red?style=flat&logo=javascript) ![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) ![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) ![](https://img.shields.io/badge/springboot-orange?style=flat&logo=springboot) 
-<br/>
-<br/>
+<img src="./assets/line.svg" width="100%" alt="" />
 
+## 🌍 Connect With Me
+
+<!-- TODO: replace the "#" hrefs below with your real links -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blog-38BDF8?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WeChat-38BDF8?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
+</p>
+
+<img src="./assets/line.svg" width="100%" alt="" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="./assets/stats.svg" alt="GitHub Stats" />
+  <img width="48%" src="./assets/streak.svg" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img width="48%" src="./assets/top-langs.svg" alt="Top Languages" />
+  <img width="48%" src="./assets/activity.svg" alt="Activity Graph" />
+</p>
+
+<img src="./assets/line.svg" width="100%" alt="" />
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="./assets/trophy.svg" alt="GitHub Trophies" />
+</p>
+
+<img src="./assets/line.svg" width="100%" alt="" />
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusanwen-code/yusanwen-code/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusanwen-code/yusanwen-code/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/yusanwen-code/yusanwen-code/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="" />
+</p>
