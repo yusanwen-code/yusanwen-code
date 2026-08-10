@@ -1,26 +1,15 @@
 <!-- assets/ 目录下的素材由 .github/workflows/profile.yml 每日自动更新 -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="YuSanWen — Backend Engineer | AI Explorer" />
+  <img src="./assets/header.svg" width="100%" alt="YuSanWen — AI Engineer | Agent Explorer" />
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a> | <b>简体中文</b>
-</p>
-
-<p align="center">
-  <img src="./assets/typing-zh.svg" alt="你好 👋, 我是 YuSanWen · 后端工程师 · 6 年开发经验 · Go | Java | Python · AI Agent 探索者" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusanwen-code&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=38BDF8&style=flat" alt="访问量" />
-  <a href="https://github.com/yusanwen-code?tab=followers">
-    <img src="https://img.shields.io/github/followers/yusanwen-code?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat&color=38BDF8" alt="GitHub 关注者" />
-  </a>
+  <img src="./assets/typing-zh.svg" alt="你好 👋, 我是 YuSanWen · AI 工程师 · Go | Java | Python · AI Agent 探索者" />
 </p>
 
 ## 💫 关于我
 
-- 🧑‍💻 **后端工程师**,拥有 **6 年**开发经验
+- 🧑‍💻 一名 **AI 工程师**
 - ⚙️ 擅长 **Go**、**Java**、**Python**、**Rust** · **Spring / Spring Boot** · **MySQL**
 - 🤖 **AI Agent 探索者** — 热衷于折腾大模型与智能体
 - 🌏 对**各种技术**都充满兴趣,持续学习新东西
@@ -48,19 +37,6 @@
 
 <img src="./assets/line.svg" width="100%" alt="" />
 
-## 📊 GitHub 数据
-
-<p align="center">
-  <img width="48%" src="./assets/stats.svg" alt="GitHub 统计" />
-  <img width="48%" src="./assets/streak.svg" alt="连续提交" />
-</p>
-<p align="center">
-  <img width="48%" src="./assets/top-langs.svg" alt="常用语言" />
-  <img width="48%" src="./assets/activity.svg" alt="贡献趋势" />
-</p>
-
-<img src="./assets/line.svg" width="100%" alt="" />
-
 ## 🏆 GitHub 奖杯
 
 <p align="center">
@@ -81,4 +57,8 @@
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <sub><a href="./README.md">English</a> · <b>简体中文</b></sub>
 </p>

@@ -1,26 +1,15 @@
 <!-- Assets in ./assets are refreshed daily by .github/workflows/profile.yml -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="YuSanWen — Backend Engineer | AI Explorer" />
+  <img src="./assets/header.svg" width="100%" alt="YuSanWen — AI Engineer | Agent Explorer" />
 </p>
 
 <p align="center">
-  <b>English</b> | <a href="./README.zh-CN.md">简体中文</a>
-</p>
-
-<p align="center">
-  <img src="./assets/typing.svg" alt="Hi 👋, I'm YuSanWen · Backend Engineer · 6 Years Experience · Go | Java | Python · AI Agent Explorer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusanwen-code&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
-  <a href="https://github.com/yusanwen-code?tab=followers">
-    <img src="https://img.shields.io/github/followers/yusanwen-code?label=Followers&style=flat&color=38BDF8" alt="GitHub followers" />
-  </a>
+  <img src="./assets/typing.svg" alt="Hi 👋, I'm YuSanWen · AI Engineer · Go | Java | Python · AI Agent Explorer" />
 </p>
 
 ## 💫 About Me
 
-- 🧑‍💻 **Backend Engineer** with **6 years** of experience
+- 🧑‍💻 I'm an **AI Engineer**
 - ⚙️ Specialized in **Go**, **Java**, **Python** and **Rust** · **Spring / Spring Boot** · **MySQL**
 - 🤖 **AI Agent Explorer** — tinkering with LLMs and autonomous agents
 - 🌏 Interested in **a lot of technologies**, always learning something new
@@ -48,19 +37,6 @@
 
 <img src="./assets/line.svg" width="100%" alt="" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="./assets/stats.svg" alt="GitHub Stats" />
-  <img width="48%" src="./assets/streak.svg" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img width="48%" src="./assets/top-langs.svg" alt="Top Languages" />
-  <img width="48%" src="./assets/activity.svg" alt="Activity Graph" />
-</p>
-
-<img src="./assets/line.svg" width="100%" alt="" />
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -81,4 +57,8 @@
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <sub><b>English</b> · <a href="./README.zh-CN.md">简体中文</a></sub>
 </p>
