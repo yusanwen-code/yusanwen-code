@@ -58,7 +58,3 @@
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
-
-<p align="center">
-  <sub><a href="./README.md">English</a> · <b>简体中文</b></sub>
-</p>
