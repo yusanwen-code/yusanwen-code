@@ -1,10 +1,10 @@
 <!-- Assets in ./assets are refreshed daily by .github/workflows/profile.yml -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="YuSanWen — AI Engineer | Agent Explorer" />
+  <img src="./assets/header.svg" width="100%" alt="YaoYuLiang — AI Engineer | Agent Explorer" />
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="Hi 👋, I'm YuSanWen · AI Engineer · Go | Java | Python · AI Agent Explorer" />
+  <img src="./assets/typing.svg" alt="Hi 👋, I'm YaoYuLiang · AI Engineer · Go | Java | Python · AI Agent Explorer" />
 </p>
 
 ## 💫 About Me
