@@ -17,7 +17,7 @@ jobs:
           fetch "https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%e4%bd%a0%e5%a5%bd+%f0%9f%91%8b%2c+%e6%88%91%e6%98%af+YuSanWen%3bAI+%e5%b7%a5%e7%a8%8b%e5%b8%88%3bGo+%7c+Java+%7c+Python%3bAI+Agent+%e6%8e%a2%e7%b4%a2%e8%80%85" assets/typing-zh.svg
           # Trophies: official instance is shut down, using a community mirror; local cache keeps the last good copy
           fetch "https://github-profile-trophy-ahmed.vercel.app/?username=yusanwen-code&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" assets/trophy.svg
-          fetch "https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=100&section=header&text=YuSanWen&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agent%20Explorer&descSize=13&descAlignY=64" assets/header.svg
+          fetch "https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:818CF8&height=100&section=header&text=YuSanWen&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agent%20Explorer&descSize=13&descAlignY=60" assets/header.svg
           fetch "https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=120&section=footer" assets/footer.svg
           fetch "https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:818CF8&height=3" assets/line.svg
       - name: Commit
