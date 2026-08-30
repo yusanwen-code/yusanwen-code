@@ -27,12 +27,10 @@
 
 ## 🌍 Connect With Me
 
-<!-- TODO: replace the "#" hrefs below with your real links -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blog-38BDF8?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/WeChat-38BDF8?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
+  <a href="mailto:yaodawang6@foxmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://yusanwen-code.github.io/"><img src="https://img.shields.io/badge/Blog-38BDF8?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/yusanwen-code/Taixuan-Sutra/raw/main/About/image.png"><img src="https://img.shields.io/badge/WeChat-38BDF8?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
 </p>
 
 <img src="./assets/line.svg" width="100%" alt="" />
