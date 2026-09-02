@@ -19,8 +19,42 @@
 
 ## 🧠 Languages & Tools
 
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,python,rust,js,mysql,spring,redis,docker,kubernetes,git,linux,idea,vscode,postman,codex,claude,cursor,openai,huggingface,ollama,langchain,pytorch,tensorflow,sklearn,jupyter&perline=8&theme=dark" alt="Languages, Tools and AI Stack" />
+</p> -->
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,rust,js,mysql,spring,redis,docker,kubernetes,git,linux,idea,vscode,postman,codex,claude,cursor&perline=8&theme=dark" alt="Languages and Tools" />
+  <!-- 第 1 行 -->
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <br />
+
+  <!-- 第 2 行 -->
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codex.svg" width="48" height="48" alt="OpenAI Codex" />
+  <br />
+
+  <!-- 第 3 行：AI -->
+  <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor" />
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2300A67E" width="48" height="48" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
 </p>
 
 <img src="./assets/line.svg" width="100%" alt="" />
