@@ -20,7 +20,7 @@
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,rust,js,mysql,spring,redis,docker,kubernetes,git,linux,idea,vscode,postman&perline=8&theme=dark" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,rust,js,mysql,spring,redis,docker,kubernetes,git,linux,idea,vscode,postman,codex,claude,cursor&perline=8&theme=dark" alt="Languages and Tools" />
 </p>
 
 <img src="./assets/line.svg" width="100%" alt="" />
