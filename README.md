@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codex.svg" width="48" height="48" alt="OpenAI Codex" />
+  <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI" />
   <br />
 
   <!-- 第 3 行：AI -->
